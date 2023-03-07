@@ -9,3 +9,5 @@ login
 local
 =======
 remote
+
+push remote
